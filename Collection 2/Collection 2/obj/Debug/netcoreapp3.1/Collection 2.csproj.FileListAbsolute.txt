@@ -1,0 +1,28 @@
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.exe
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.deps.json
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.runtimeconfig.json
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.dll
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.pdb
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.dll
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.pdb
+C:\Users\ilkin\source\repos\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.genruntimeconfig.cache
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.exe
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.deps.json
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.runtimeconfig.json
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.runtimeconfig.dev.json
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.dll
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\bin\Debug\netcoreapp3.1\Collection 2.pdb
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.csproj.AssemblyReference.cache
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.AssemblyInfoInputs.cache
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.AssemblyInfo.cs
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.dll
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.pdb
+C:\Users\ilkin\OneDrive\Masaüstü\New folder\Collection 2\Collection 2\obj\Debug\netcoreapp3.1\Collection 2.genruntimeconfig.cache
